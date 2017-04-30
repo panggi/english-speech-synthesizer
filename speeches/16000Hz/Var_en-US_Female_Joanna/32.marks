@@ -1,0 +1,10 @@
+{"time":0,"type":"sentence","start":0,"end":7,"value":"jakarta"}
+{"time":6,"type":"word","start":0,"end":7,"value":"jakarta"}
+{"time":6,"type":"viseme","value":"S"}
+{"time":84,"type":"viseme","value":"@"}
+{"time":131,"type":"viseme","value":"k"}
+{"time":260,"type":"viseme","value":"a"}
+{"time":347,"type":"viseme","value":"r"}
+{"time":407,"type":"viseme","value":"t"}
+{"time":457,"type":"viseme","value":"@"}
+{"time":639,"type":"viseme","value":"sil"}

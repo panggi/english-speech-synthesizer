@@ -1,0 +1,25 @@
+{"time":0,"type":"sentence","start":0,"end":27,"value":"weather in jakarta tomorrow"}
+{"time":6,"type":"word","start":0,"end":7,"value":"weather"}
+{"time":6,"type":"viseme","value":"u"}
+{"time":111,"type":"viseme","value":"E"}
+{"time":185,"type":"viseme","value":"T"}
+{"time":257,"type":"viseme","value":"E"}
+{"time":366,"type":"word","start":8,"end":10,"value":"in"}
+{"time":366,"type":"viseme","value":"i"}
+{"time":446,"type":"viseme","value":"t"}
+{"time":527,"type":"word","start":11,"end":18,"value":"jakarta"}
+{"time":527,"type":"viseme","value":"S"}
+{"time":638,"type":"viseme","value":"@"}
+{"time":665,"type":"viseme","value":"k"}
+{"time":758,"type":"viseme","value":"a"}
+{"time":870,"type":"viseme","value":"r"}
+{"time":919,"type":"viseme","value":"t"}
+{"time":980,"type":"viseme","value":"@"}
+{"time":1027,"type":"word","start":19,"end":27,"value":"tomorrow"}
+{"time":1027,"type":"viseme","value":"t"}
+{"time":1135,"type":"viseme","value":"@"}
+{"time":1167,"type":"viseme","value":"p"}
+{"time":1254,"type":"viseme","value":"a"}
+{"time":1386,"type":"viseme","value":"r"}
+{"time":1483,"type":"viseme","value":"o"}
+{"time":1687,"type":"viseme","value":"sil"}

@@ -1,0 +1,6 @@
+{"time":0,"type":"sentence","start":0,"end":4,"value":"five"}
+{"time":6,"type":"word","start":0,"end":4,"value":"five"}
+{"time":6,"type":"viseme","value":"f"}
+{"time":71,"type":"viseme","value":"a"}
+{"time":371,"type":"viseme","value":"f"}
+{"time":544,"type":"viseme","value":"sil"}

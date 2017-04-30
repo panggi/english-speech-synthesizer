@@ -1,0 +1,20 @@
+{"time":0,"type":"sentence","start":0,"end":22,"value":"the day after tomorrow"}
+{"time":245,"type":"word","start":0,"end":3,"value":"the"}
+{"time":245,"type":"viseme","value":"T"}
+{"time":274,"type":"viseme","value":"@"}
+{"time":324,"type":"word","start":4,"end":7,"value":"day"}
+{"time":324,"type":"viseme","value":"t"}
+{"time":407,"type":"viseme","value":"e"}
+{"time":571,"type":"word","start":8,"end":13,"value":"after"}
+{"time":571,"type":"viseme","value":"a"}
+{"time":679,"type":"viseme","value":"f"}
+{"time":761,"type":"viseme","value":"t"}
+{"time":836,"type":"viseme","value":"@"}
+{"time":876,"type":"word","start":14,"end":22,"value":"tomorrow"}
+{"time":876,"type":"viseme","value":"t"}
+{"time":968,"type":"viseme","value":"@"}
+{"time":986,"type":"viseme","value":"p"}
+{"time":1081,"type":"viseme","value":"O"}
+{"time":1173,"type":"viseme","value":"r"}
+{"time":1286,"type":"viseme","value":"@"}
+{"time":1543,"type":"viseme","value":"sil"}

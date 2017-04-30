@@ -1,0 +1,9 @@
+{"time":0,"type":"sentence","start":0,"end":7,"value":"bandung"}
+{"time":6,"type":"word","start":0,"end":7,"value":"bandung"}
+{"time":6,"type":"viseme","value":"p"}
+{"time":83,"type":"viseme","value":"a"}
+{"time":189,"type":"viseme","value":"t"}
+{"time":292,"type":"viseme","value":"t"}
+{"time":358,"type":"viseme","value":"u"}
+{"time":431,"type":"viseme","value":"k"}
+{"time":623,"type":"viseme","value":"sil"}

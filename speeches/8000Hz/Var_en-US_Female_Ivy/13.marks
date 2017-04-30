@@ -1,0 +1,8 @@
+{"time":0,"type":"sentence","start":0,"end":7,"value":"tuesday"}
+{"time":6,"type":"word","start":0,"end":7,"value":"tuesday"}
+{"time":6,"type":"viseme","value":"t"}
+{"time":68,"type":"viseme","value":"u"}
+{"time":210,"type":"viseme","value":"s"}
+{"time":268,"type":"viseme","value":"t"}
+{"time":350,"type":"viseme","value":"e"}
+{"time":570,"type":"viseme","value":"sil"}

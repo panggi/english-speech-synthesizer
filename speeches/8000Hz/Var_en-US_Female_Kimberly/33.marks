@@ -1,0 +1,11 @@
+{"time":0,"type":"sentence","start":0,"end":8,"value":"denpasar"}
+{"time":6,"type":"word","start":0,"end":8,"value":"denpasar"}
+{"time":6,"type":"viseme","value":"t"}
+{"time":115,"type":"viseme","value":"E"}
+{"time":171,"type":"viseme","value":"t"}
+{"time":252,"type":"viseme","value":"p"}
+{"time":315,"type":"viseme","value":"@"}
+{"time":345,"type":"viseme","value":"s"}
+{"time":464,"type":"viseme","value":"a"}
+{"time":590,"type":"viseme","value":"r"}
+{"time":709,"type":"viseme","value":"sil"}

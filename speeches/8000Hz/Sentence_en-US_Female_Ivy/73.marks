@@ -1,0 +1,27 @@
+{"time":0,"type":"sentence","start":0,"end":30,"value":"weather two days ago in padang"}
+{"time":6,"type":"word","start":0,"end":7,"value":"weather"}
+{"time":6,"type":"viseme","value":"u"}
+{"time":105,"type":"viseme","value":"E"}
+{"time":159,"type":"viseme","value":"T"}
+{"time":240,"type":"viseme","value":"E"}
+{"time":316,"type":"word","start":8,"end":11,"value":"two"}
+{"time":316,"type":"viseme","value":"t"}
+{"time":419,"type":"viseme","value":"u"}
+{"time":565,"type":"word","start":12,"end":16,"value":"days"}
+{"time":565,"type":"viseme","value":"t"}
+{"time":635,"type":"viseme","value":"e"}
+{"time":774,"type":"viseme","value":"s"}
+{"time":865,"type":"word","start":17,"end":20,"value":"ago"}
+{"time":865,"type":"viseme","value":"@"}
+{"time":904,"type":"viseme","value":"k"}
+{"time":1002,"type":"viseme","value":"o"}
+{"time":1156,"type":"word","start":21,"end":23,"value":"in"}
+{"time":1156,"type":"viseme","value":"i"}
+{"time":1194,"type":"viseme","value":"t"}
+{"time":1255,"type":"word","start":24,"end":30,"value":"padang"}
+{"time":1255,"type":"viseme","value":"p"}
+{"time":1364,"type":"viseme","value":"a"}
+{"time":1478,"type":"viseme","value":"t"}
+{"time":1518,"type":"viseme","value":"a"}
+{"time":1694,"type":"viseme","value":"k"}
+{"time":1826,"type":"viseme","value":"sil"}

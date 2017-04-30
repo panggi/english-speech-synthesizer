@@ -1,0 +1,10 @@
+{"time":0,"type":"sentence","start":0,"end":8,"value":"surabaya"}
+{"time":6,"type":"word","start":0,"end":8,"value":"surabaya"}
+{"time":6,"type":"viseme","value":"s"}
+{"time":113,"type":"viseme","value":"u"}
+{"time":200,"type":"viseme","value":"r"}
+{"time":280,"type":"viseme","value":"@"}
+{"time":315,"type":"viseme","value":"p"}
+{"time":387,"type":"viseme","value":"a"}
+{"time":544,"type":"viseme","value":"@"}
+{"time":707,"type":"viseme","value":"sil"}

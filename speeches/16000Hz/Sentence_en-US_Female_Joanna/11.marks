@@ -1,0 +1,26 @@
+{"time":0,"type":"sentence","start":0,"end":28,"value":"weather tomorrow in denpasar"}
+{"time":6,"type":"word","start":0,"end":7,"value":"weather"}
+{"time":6,"type":"viseme","value":"u"}
+{"time":109,"type":"viseme","value":"E"}
+{"time":183,"type":"viseme","value":"T"}
+{"time":250,"type":"viseme","value":"E"}
+{"time":313,"type":"word","start":8,"end":16,"value":"tomorrow"}
+{"time":313,"type":"viseme","value":"t"}
+{"time":403,"type":"viseme","value":"@"}
+{"time":444,"type":"viseme","value":"p"}
+{"time":543,"type":"viseme","value":"a"}
+{"time":646,"type":"viseme","value":"r"}
+{"time":751,"type":"viseme","value":"o"}
+{"time":861,"type":"word","start":17,"end":19,"value":"in"}
+{"time":861,"type":"viseme","value":"i"}
+{"time":905,"type":"viseme","value":"t"}
+{"time":965,"type":"word","start":20,"end":28,"value":"denpasar"}
+{"time":965,"type":"viseme","value":"t"}
+{"time":1029,"type":"viseme","value":"E"}
+{"time":1079,"type":"viseme","value":"t"}
+{"time":1156,"type":"viseme","value":"p"}
+{"time":1239,"type":"viseme","value":"@"}
+{"time":1281,"type":"viseme","value":"s"}
+{"time":1399,"type":"viseme","value":"a"}
+{"time":1523,"type":"viseme","value":"r"}
+{"time":1674,"type":"viseme","value":"sil"}

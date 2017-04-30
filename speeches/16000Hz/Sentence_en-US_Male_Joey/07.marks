@@ -1,0 +1,27 @@
+{"time":0,"type":"sentence","start":0,"end":33,"value":"what's the weather three days ago"}
+{"time":6,"type":"word","start":0,"end":6,"value":"what's"}
+{"time":6,"type":"viseme","value":"u"}
+{"time":121,"type":"viseme","value":"E"}
+{"time":183,"type":"viseme","value":"t"}
+{"time":241,"type":"viseme","value":"s"}
+{"time":313,"type":"word","start":7,"end":10,"value":"the"}
+{"time":313,"type":"viseme","value":"T"}
+{"time":354,"type":"viseme","value":"@"}
+{"time":380,"type":"word","start":11,"end":18,"value":"weather"}
+{"time":380,"type":"viseme","value":"u"}
+{"time":506,"type":"viseme","value":"E"}
+{"time":622,"type":"viseme","value":"T"}
+{"time":700,"type":"viseme","value":"E"}
+{"time":764,"type":"word","start":19,"end":24,"value":"three"}
+{"time":764,"type":"viseme","value":"T"}
+{"time":916,"type":"viseme","value":"r"}
+{"time":1039,"type":"viseme","value":"i"}
+{"time":1114,"type":"word","start":25,"end":29,"value":"days"}
+{"time":1114,"type":"viseme","value":"t"}
+{"time":1195,"type":"viseme","value":"e"}
+{"time":1354,"type":"viseme","value":"s"}
+{"time":1462,"type":"word","start":30,"end":33,"value":"ago"}
+{"time":1462,"type":"viseme","value":"@"}
+{"time":1517,"type":"viseme","value":"k"}
+{"time":1627,"type":"viseme","value":"o"}
+{"time":1893,"type":"viseme","value":"sil"}

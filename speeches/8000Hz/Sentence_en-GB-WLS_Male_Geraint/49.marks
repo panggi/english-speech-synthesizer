@@ -1,0 +1,27 @@
+{"time":0,"type":"sentence","start":0,"end":32,"value":"weather two days ago in makassar"}
+{"time":6,"type":"word","start":0,"end":7,"value":"weather"}
+{"time":6,"type":"viseme","value":"u"}
+{"time":37,"type":"viseme","value":"E"}
+{"time":93,"type":"viseme","value":"T"}
+{"time":156,"type":"viseme","value":"@"}
+{"time":189,"type":"word","start":8,"end":11,"value":"two"}
+{"time":189,"type":"viseme","value":"t"}
+{"time":352,"type":"viseme","value":"u"}
+{"time":559,"type":"word","start":12,"end":16,"value":"days"}
+{"time":559,"type":"viseme","value":"t"}
+{"time":701,"type":"viseme","value":"e"}
+{"time":825,"type":"viseme","value":"s"}
+{"time":936,"type":"word","start":17,"end":20,"value":"ago"}
+{"time":936,"type":"viseme","value":"@"}
+{"time":988,"type":"viseme","value":"k"}
+{"time":1054,"type":"viseme","value":"@"}
+{"time":1238,"type":"word","start":21,"end":23,"value":"in"}
+{"time":1238,"type":"viseme","value":"i"}
+{"time":1359,"type":"viseme","value":"t"}
+{"time":1419,"type":"word","start":24,"end":32,"value":"makassar"}
+{"time":1419,"type":"viseme","value":"p"}
+{"time":1487,"type":"viseme","value":"a"}
+{"time":1554,"type":"viseme","value":"k"}
+{"time":1662,"type":"viseme","value":"@"}
+{"time":1708,"type":"viseme","value":"s"}
+{"time":1835,"type":"viseme","value":"a"}

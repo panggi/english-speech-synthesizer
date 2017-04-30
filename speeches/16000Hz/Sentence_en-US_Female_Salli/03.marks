@@ -1,0 +1,23 @@
+{"time":0,"type":"sentence","start":0,"end":26,"value":"weather like four days ago"}
+{"time":6,"type":"word","start":0,"end":7,"value":"weather"}
+{"time":6,"type":"viseme","value":"u"}
+{"time":111,"type":"viseme","value":"E"}
+{"time":180,"type":"viseme","value":"T"}
+{"time":251,"type":"viseme","value":"E"}
+{"time":315,"type":"word","start":8,"end":12,"value":"like"}
+{"time":315,"type":"viseme","value":"t"}
+{"time":425,"type":"viseme","value":"a"}
+{"time":520,"type":"viseme","value":"k"}
+{"time":612,"type":"word","start":13,"end":17,"value":"four"}
+{"time":612,"type":"viseme","value":"f"}
+{"time":761,"type":"viseme","value":"O"}
+{"time":900,"type":"viseme","value":"r"}
+{"time":953,"type":"word","start":18,"end":22,"value":"days"}
+{"time":953,"type":"viseme","value":"t"}
+{"time":1073,"type":"viseme","value":"e"}
+{"time":1191,"type":"viseme","value":"s"}
+{"time":1280,"type":"word","start":23,"end":26,"value":"ago"}
+{"time":1280,"type":"viseme","value":"@"}
+{"time":1324,"type":"viseme","value":"k"}
+{"time":1400,"type":"viseme","value":"o"}
+{"time":1663,"type":"viseme","value":"sil"}

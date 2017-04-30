@@ -1,0 +1,10 @@
+{"time":0,"type":"sentence","start":0,"end":9,"value":"yesterday"}
+{"time":6,"type":"word","start":0,"end":9,"value":"yesterday"}
+{"time":6,"type":"viseme","value":"i"}
+{"time":65,"type":"viseme","value":"E"}
+{"time":138,"type":"viseme","value":"s"}
+{"time":237,"type":"viseme","value":"t"}
+{"time":285,"type":"viseme","value":"@"}
+{"time":330,"type":"viseme","value":"t"}
+{"time":389,"type":"viseme","value":"e"}
+{"time":635,"type":"viseme","value":"sil"}

@@ -1,0 +1,27 @@
+{"time":0,"type":"sentence","start":0,"end":30,"value":"weather yesterday in palembang"}
+{"time":6,"type":"word","start":0,"end":7,"value":"weather"}
+{"time":6,"type":"viseme","value":"u"}
+{"time":51,"type":"viseme","value":"E"}
+{"time":127,"type":"viseme","value":"T"}
+{"time":173,"type":"viseme","value":"@"}
+{"time":215,"type":"word","start":8,"end":17,"value":"yesterday"}
+{"time":215,"type":"viseme","value":"i"}
+{"time":306,"type":"viseme","value":"E"}
+{"time":388,"type":"viseme","value":"s"}
+{"time":487,"type":"viseme","value":"t"}
+{"time":563,"type":"viseme","value":"@"}
+{"time":590,"type":"viseme","value":"t"}
+{"time":640,"type":"viseme","value":"e"}
+{"time":778,"type":"word","start":18,"end":20,"value":"in"}
+{"time":778,"type":"viseme","value":"i"}
+{"time":833,"type":"viseme","value":"t"}
+{"time":882,"type":"word","start":21,"end":30,"value":"palembang"}
+{"time":882,"type":"viseme","value":"p"}
+{"time":1016,"type":"viseme","value":"a"}
+{"time":1121,"type":"viseme","value":"t"}
+{"time":1174,"type":"viseme","value":"@"}
+{"time":1224,"type":"viseme","value":"p"}
+{"time":1308,"type":"viseme","value":"p"}
+{"time":1356,"type":"viseme","value":"a"}
+{"time":1453,"type":"viseme","value":"k"}
+{"time":1563,"type":"viseme","value":"sil"}

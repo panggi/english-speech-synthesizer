@@ -1,0 +1,13 @@
+{"time":0,"type":"sentence","start":0,"end":10,"value":"balikpapan"}
+{"time":6,"type":"word","start":0,"end":10,"value":"balikpapan"}
+{"time":6,"type":"viseme","value":"p"}
+{"time":112,"type":"viseme","value":"a"}
+{"time":217,"type":"viseme","value":"t"}
+{"time":273,"type":"viseme","value":"i"}
+{"time":339,"type":"viseme","value":"k"}
+{"time":420,"type":"viseme","value":"p"}
+{"time":522,"type":"viseme","value":"a"}
+{"time":610,"type":"viseme","value":"p"}
+{"time":709,"type":"viseme","value":"a"}
+{"time":813,"type":"viseme","value":"t"}
+{"time":940,"type":"viseme","value":"sil"}

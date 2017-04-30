@@ -1,0 +1,24 @@
+{"time":0,"type":"sentence","start":0,"end":24,"value":"temperature six days ago"}
+{"time":6,"type":"word","start":0,"end":11,"value":"temperature"}
+{"time":6,"type":"viseme","value":"t"}
+{"time":85,"type":"viseme","value":"E"}
+{"time":165,"type":"viseme","value":"p"}
+{"time":214,"type":"viseme","value":"p"}
+{"time":255,"type":"viseme","value":"r"}
+{"time":285,"type":"viseme","value":"@"}
+{"time":315,"type":"viseme","value":"S"}
+{"time":424,"type":"viseme","value":"E"}
+{"time":518,"type":"word","start":12,"end":15,"value":"six"}
+{"time":518,"type":"viseme","value":"s"}
+{"time":674,"type":"viseme","value":"i"}
+{"time":755,"type":"viseme","value":"k"}
+{"time":855,"type":"viseme","value":"s"}
+{"time":946,"type":"word","start":16,"end":20,"value":"days"}
+{"time":946,"type":"viseme","value":"t"}
+{"time":1026,"type":"viseme","value":"e"}
+{"time":1158,"type":"viseme","value":"s"}
+{"time":1225,"type":"word","start":21,"end":24,"value":"ago"}
+{"time":1225,"type":"viseme","value":"@"}
+{"time":1265,"type":"viseme","value":"k"}
+{"time":1356,"type":"viseme","value":"o"}
+{"time":1592,"type":"viseme","value":"sil"}

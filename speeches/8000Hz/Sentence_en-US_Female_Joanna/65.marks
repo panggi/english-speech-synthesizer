@@ -1,0 +1,25 @@
+{"time":0,"type":"sentence","start":0,"end":30,"value":"weather the day after tomorrow"}
+{"time":6,"type":"word","start":0,"end":7,"value":"weather"}
+{"time":6,"type":"viseme","value":"u"}
+{"time":102,"type":"viseme","value":"E"}
+{"time":161,"type":"viseme","value":"T"}
+{"time":222,"type":"viseme","value":"E"}
+{"time":280,"type":"word","start":8,"end":11,"value":"the"}
+{"time":280,"type":"viseme","value":"T"}
+{"time":318,"type":"viseme","value":"@"}
+{"time":357,"type":"word","start":12,"end":15,"value":"day"}
+{"time":357,"type":"viseme","value":"t"}
+{"time":435,"type":"viseme","value":"e"}
+{"time":555,"type":"word","start":16,"end":21,"value":"after"}
+{"time":555,"type":"viseme","value":"a"}
+{"time":626,"type":"viseme","value":"f"}
+{"time":676,"type":"viseme","value":"t"}
+{"time":726,"type":"viseme","value":"E"}
+{"time":808,"type":"word","start":22,"end":30,"value":"tomorrow"}
+{"time":808,"type":"viseme","value":"t"}
+{"time":895,"type":"viseme","value":"@"}
+{"time":923,"type":"viseme","value":"p"}
+{"time":1009,"type":"viseme","value":"a"}
+{"time":1107,"type":"viseme","value":"r"}
+{"time":1198,"type":"viseme","value":"o"}
+{"time":1418,"type":"viseme","value":"sil"}

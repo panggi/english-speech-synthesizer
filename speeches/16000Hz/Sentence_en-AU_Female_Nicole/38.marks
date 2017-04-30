@@ -1,0 +1,18 @@
+{"time":0,"type":"sentence","start":0,"end":20,"value":"weather two days ago"}
+{"time":6,"type":"word","start":0,"end":7,"value":"weather"}
+{"time":6,"type":"viseme","value":"u"}
+{"time":91,"type":"viseme","value":"E"}
+{"time":139,"type":"viseme","value":"T"}
+{"time":227,"type":"viseme","value":"@"}
+{"time":268,"type":"word","start":8,"end":11,"value":"two"}
+{"time":268,"type":"viseme","value":"t"}
+{"time":413,"type":"viseme","value":"u"}
+{"time":491,"type":"word","start":12,"end":16,"value":"days"}
+{"time":491,"type":"viseme","value":"t"}
+{"time":552,"type":"viseme","value":"e"}
+{"time":724,"type":"viseme","value":"s"}
+{"time":792,"type":"word","start":17,"end":20,"value":"ago"}
+{"time":792,"type":"viseme","value":"@"}
+{"time":842,"type":"viseme","value":"k"}
+{"time":917,"type":"viseme","value":"@"}
+{"time":1199,"type":"viseme","value":"sil"}

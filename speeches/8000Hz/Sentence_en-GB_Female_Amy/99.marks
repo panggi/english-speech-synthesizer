@@ -1,0 +1,21 @@
+{"time":0,"type":"sentence","start":0,"end":23,"value":"temperature on thursday"}
+{"time":242,"type":"word","start":0,"end":11,"value":"temperature"}
+{"time":242,"type":"viseme","value":"t"}
+{"time":282,"type":"viseme","value":"E"}
+{"time":357,"type":"viseme","value":"p"}
+{"time":425,"type":"viseme","value":"p"}
+{"time":461,"type":"viseme","value":"r"}
+{"time":504,"type":"viseme","value":"@"}
+{"time":544,"type":"viseme","value":"S"}
+{"time":634,"type":"viseme","value":"@"}
+{"time":695,"type":"viseme","value":"r"}
+{"time":757,"type":"word","start":12,"end":14,"value":"on"}
+{"time":757,"type":"viseme","value":"O"}
+{"time":854,"type":"viseme","value":"t"}
+{"time":921,"type":"word","start":15,"end":23,"value":"thursday"}
+{"time":921,"type":"viseme","value":"T"}
+{"time":1049,"type":"viseme","value":"E"}
+{"time":1190,"type":"viseme","value":"s"}
+{"time":1282,"type":"viseme","value":"t"}
+{"time":1360,"type":"viseme","value":"e"}
+{"time":1572,"type":"viseme","value":"sil"}

@@ -1,0 +1,11 @@
+{"time":0,"type":"sentence","start":0,"end":11,"value":"temperature"}
+{"time":6,"type":"word","start":0,"end":11,"value":"temperature"}
+{"time":6,"type":"viseme","value":"t"}
+{"time":121,"type":"viseme","value":"E"}
+{"time":162,"type":"viseme","value":"p"}
+{"time":246,"type":"viseme","value":"p"}
+{"time":307,"type":"viseme","value":"r"}
+{"time":348,"type":"viseme","value":"@"}
+{"time":398,"type":"viseme","value":"S"}
+{"time":518,"type":"viseme","value":"@"}
+{"time":674,"type":"viseme","value":"sil"}

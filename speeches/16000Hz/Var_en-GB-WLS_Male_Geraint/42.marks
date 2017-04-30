@@ -1,0 +1,8 @@
+{"time":0,"type":"sentence","start":0,"end":6,"value":"padang"}
+{"time":6,"type":"word","start":0,"end":6,"value":"padang"}
+{"time":6,"type":"viseme","value":"p"}
+{"time":80,"type":"viseme","value":"a"}
+{"time":170,"type":"viseme","value":"t"}
+{"time":258,"type":"viseme","value":"a"}
+{"time":371,"type":"viseme","value":"k"}
+{"time":481,"type":"viseme","value":"sil"}

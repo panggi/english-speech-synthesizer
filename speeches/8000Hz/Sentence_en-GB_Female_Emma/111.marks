@@ -1,0 +1,18 @@
+{"time":0,"type":"sentence","start":0,"end":21,"value":"weather four days ago"}
+{"time":245,"type":"word","start":0,"end":7,"value":"weather"}
+{"time":245,"type":"viseme","value":"u"}
+{"time":318,"type":"viseme","value":"E"}
+{"time":379,"type":"viseme","value":"T"}
+{"time":433,"type":"viseme","value":"@"}
+{"time":500,"type":"word","start":8,"end":12,"value":"four"}
+{"time":500,"type":"viseme","value":"f"}
+{"time":640,"type":"viseme","value":"O"}
+{"time":1012,"type":"word","start":13,"end":17,"value":"days"}
+{"time":1012,"type":"viseme","value":"t"}
+{"time":1099,"type":"viseme","value":"e"}
+{"time":1270,"type":"viseme","value":"s"}
+{"time":1380,"type":"word","start":18,"end":21,"value":"ago"}
+{"time":1380,"type":"viseme","value":"@"}
+{"time":1409,"type":"viseme","value":"k"}
+{"time":1503,"type":"viseme","value":"@"}
+{"time":1746,"type":"viseme","value":"sil"}

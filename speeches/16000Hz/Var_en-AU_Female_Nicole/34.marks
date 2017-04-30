@@ -1,0 +1,10 @@
+{"time":0,"type":"sentence","start":0,"end":7,"value":"kendari"}
+{"time":6,"type":"word","start":0,"end":7,"value":"kendari"}
+{"time":6,"type":"viseme","value":"k"}
+{"time":80,"type":"viseme","value":"E"}
+{"time":109,"type":"viseme","value":"t"}
+{"time":182,"type":"viseme","value":"t"}
+{"time":250,"type":"viseme","value":"a"}
+{"time":378,"type":"viseme","value":"r"}
+{"time":489,"type":"viseme","value":"i"}
+{"time":691,"type":"viseme","value":"sil"}

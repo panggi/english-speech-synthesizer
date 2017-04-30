@@ -1,0 +1,16 @@
+{"time":0,"type":"sentence","start":0,"end":17,"value":"temperature today"}
+{"time":6,"type":"word","start":0,"end":11,"value":"temperature"}
+{"time":6,"type":"viseme","value":"t"}
+{"time":60,"type":"viseme","value":"E"}
+{"time":103,"type":"viseme","value":"p"}
+{"time":176,"type":"viseme","value":"p"}
+{"time":237,"type":"viseme","value":"r"}
+{"time":274,"type":"viseme","value":"@"}
+{"time":302,"type":"viseme","value":"S"}
+{"time":419,"type":"viseme","value":"E"}
+{"time":590,"type":"word","start":12,"end":17,"value":"today"}
+{"time":590,"type":"viseme","value":"t"}
+{"time":690,"type":"viseme","value":"@"}
+{"time":721,"type":"viseme","value":"t"}
+{"time":787,"type":"viseme","value":"e"}
+{"time":1149,"type":"viseme","value":"sil"}

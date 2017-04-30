@@ -1,0 +1,12 @@
+{"time":0,"type":"sentence","start":0,"end":10,"value":"jogjakarta"}
+{"time":6,"type":"word","start":0,"end":10,"value":"jogjakarta"}
+{"time":6,"type":"viseme","value":"S"}
+{"time":66,"type":"viseme","value":"O"}
+{"time":171,"type":"viseme","value":"k"}
+{"time":252,"type":"viseme","value":"S"}
+{"time":349,"type":"viseme","value":"@"}
+{"time":374,"type":"viseme","value":"k"}
+{"time":474,"type":"viseme","value":"a"}
+{"time":607,"type":"viseme","value":"t"}
+{"time":682,"type":"viseme","value":"@"}
+{"time":849,"type":"viseme","value":"sil"}

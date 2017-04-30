@@ -1,0 +1,25 @@
+{"time":0,"type":"sentence","start":0,"end":28,"value":"what's the weather on monday"}
+{"time":6,"type":"word","start":0,"end":6,"value":"what's"}
+{"time":6,"type":"viseme","value":"u"}
+{"time":88,"type":"viseme","value":"O"}
+{"time":155,"type":"viseme","value":"t"}
+{"time":205,"type":"viseme","value":"s"}
+{"time":271,"type":"word","start":7,"end":10,"value":"the"}
+{"time":271,"type":"viseme","value":"T"}
+{"time":325,"type":"viseme","value":"@"}
+{"time":352,"type":"word","start":11,"end":18,"value":"weather"}
+{"time":352,"type":"viseme","value":"u"}
+{"time":480,"type":"viseme","value":"E"}
+{"time":545,"type":"viseme","value":"T"}
+{"time":601,"type":"viseme","value":"@"}
+{"time":634,"type":"viseme","value":"r"}
+{"time":699,"type":"word","start":19,"end":21,"value":"on"}
+{"time":699,"type":"viseme","value":"O"}
+{"time":771,"type":"viseme","value":"t"}
+{"time":820,"type":"word","start":22,"end":28,"value":"monday"}
+{"time":820,"type":"viseme","value":"p"}
+{"time":906,"type":"viseme","value":"E"}
+{"time":974,"type":"viseme","value":"t"}
+{"time":1055,"type":"viseme","value":"t"}
+{"time":1109,"type":"viseme","value":"e"}
+{"time":1312,"type":"viseme","value":"sil"}

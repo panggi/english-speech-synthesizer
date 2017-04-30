@@ -1,0 +1,23 @@
+{"time":0,"type":"sentence","start":0,"end":25,"value":"weather on last wednesday"}
+{"time":6,"type":"word","start":0,"end":7,"value":"weather"}
+{"time":6,"type":"viseme","value":"u"}
+{"time":72,"type":"viseme","value":"E"}
+{"time":135,"type":"viseme","value":"T"}
+{"time":181,"type":"viseme","value":"@"}
+{"time":229,"type":"viseme","value":"r"}
+{"time":297,"type":"word","start":8,"end":10,"value":"on"}
+{"time":297,"type":"viseme","value":"O"}
+{"time":403,"type":"viseme","value":"t"}
+{"time":497,"type":"word","start":11,"end":15,"value":"last"}
+{"time":497,"type":"viseme","value":"t"}
+{"time":568,"type":"viseme","value":"a"}
+{"time":678,"type":"viseme","value":"s"}
+{"time":808,"type":"viseme","value":"t"}
+{"time":849,"type":"word","start":16,"end":25,"value":"wednesday"}
+{"time":849,"type":"viseme","value":"u"}
+{"time":967,"type":"viseme","value":"E"}
+{"time":1020,"type":"viseme","value":"t"}
+{"time":1118,"type":"viseme","value":"s"}
+{"time":1220,"type":"viseme","value":"t"}
+{"time":1280,"type":"viseme","value":"e"}
+{"time":1507,"type":"viseme","value":"sil"}

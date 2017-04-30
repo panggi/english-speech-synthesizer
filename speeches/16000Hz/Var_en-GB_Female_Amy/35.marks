@@ -1,0 +1,14 @@
+{"time":0,"type":"sentence","start":0,"end":11,"value":"tasikmalaya"}
+{"time":6,"type":"word","start":0,"end":11,"value":"tasikmalaya"}
+{"time":6,"type":"viseme","value":"t"}
+{"time":71,"type":"viseme","value":"a"}
+{"time":132,"type":"viseme","value":"s"}
+{"time":244,"type":"viseme","value":"i"}
+{"time":275,"type":"viseme","value":"k"}
+{"time":382,"type":"viseme","value":"p"}
+{"time":461,"type":"viseme","value":"a"}
+{"time":551,"type":"viseme","value":"t"}
+{"time":617,"type":"viseme","value":"a"}
+{"time":743,"type":"viseme","value":"i"}
+{"time":866,"type":"viseme","value":"@"}
+{"time":1111,"type":"viseme","value":"sil"}

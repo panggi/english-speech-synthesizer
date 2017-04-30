@@ -1,0 +1,18 @@
+{"time":0,"type":"sentence","start":0,"end":18,"value":"weather on tuesday"}
+{"time":6,"type":"word","start":0,"end":7,"value":"weather"}
+{"time":6,"type":"viseme","value":"u"}
+{"time":97,"type":"viseme","value":"E"}
+{"time":159,"type":"viseme","value":"T"}
+{"time":212,"type":"viseme","value":"@"}
+{"time":313,"type":"viseme","value":"r"}
+{"time":361,"type":"word","start":8,"end":10,"value":"on"}
+{"time":361,"type":"viseme","value":"O"}
+{"time":482,"type":"viseme","value":"t"}
+{"time":566,"type":"word","start":11,"end":18,"value":"tuesday"}
+{"time":566,"type":"viseme","value":"t"}
+{"time":618,"type":"viseme","value":"i"}
+{"time":717,"type":"viseme","value":"u"}
+{"time":750,"type":"viseme","value":"s"}
+{"time":851,"type":"viseme","value":"t"}
+{"time":912,"type":"viseme","value":"e"}
+{"time":1155,"type":"viseme","value":"sil"}

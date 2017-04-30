@@ -1,0 +1,21 @@
+{"time":0,"type":"sentence","start":0,"end":23,"value":"weather today in padang"}
+{"time":6,"type":"word","start":0,"end":7,"value":"weather"}
+{"time":6,"type":"viseme","value":"u"}
+{"time":84,"type":"viseme","value":"E"}
+{"time":144,"type":"viseme","value":"T"}
+{"time":208,"type":"viseme","value":"E"}
+{"time":298,"type":"word","start":8,"end":13,"value":"today"}
+{"time":298,"type":"viseme","value":"t"}
+{"time":410,"type":"viseme","value":"@"}
+{"time":450,"type":"viseme","value":"t"}
+{"time":524,"type":"viseme","value":"e"}
+{"time":814,"type":"word","start":14,"end":16,"value":"in"}
+{"time":814,"type":"viseme","value":"i"}
+{"time":856,"type":"viseme","value":"t"}
+{"time":944,"type":"word","start":17,"end":23,"value":"padang"}
+{"time":944,"type":"viseme","value":"p"}
+{"time":1049,"type":"viseme","value":"a"}
+{"time":1169,"type":"viseme","value":"t"}
+{"time":1224,"type":"viseme","value":"a"}
+{"time":1443,"type":"viseme","value":"k"}
+{"time":1582,"type":"viseme","value":"sil"}

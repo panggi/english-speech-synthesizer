@@ -1,0 +1,10 @@
+{"time":0,"type":"sentence","start":0,"end":8,"value":"makassar"}
+{"time":6,"type":"word","start":0,"end":8,"value":"makassar"}
+{"time":6,"type":"viseme","value":"p"}
+{"time":70,"type":"viseme","value":"a"}
+{"time":150,"type":"viseme","value":"k"}
+{"time":265,"type":"viseme","value":"a"}
+{"time":361,"type":"viseme","value":"s"}
+{"time":471,"type":"viseme","value":"a"}
+{"time":611,"type":"viseme","value":"r"}
+{"time":742,"type":"viseme","value":"sil"}

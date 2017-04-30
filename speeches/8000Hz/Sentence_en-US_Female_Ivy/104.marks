@@ -1,0 +1,26 @@
+{"time":0,"type":"sentence","start":0,"end":28,"value":"weather yesterday in jakarta"}
+{"time":6,"type":"word","start":0,"end":7,"value":"weather"}
+{"time":6,"type":"viseme","value":"u"}
+{"time":124,"type":"viseme","value":"E"}
+{"time":194,"type":"viseme","value":"T"}
+{"time":247,"type":"viseme","value":"E"}
+{"time":334,"type":"word","start":8,"end":17,"value":"yesterday"}
+{"time":334,"type":"viseme","value":"i"}
+{"time":423,"type":"viseme","value":"E"}
+{"time":521,"type":"viseme","value":"s"}
+{"time":590,"type":"viseme","value":"t"}
+{"time":669,"type":"viseme","value":"E"}
+{"time":721,"type":"viseme","value":"t"}
+{"time":768,"type":"viseme","value":"e"}
+{"time":972,"type":"word","start":18,"end":20,"value":"in"}
+{"time":972,"type":"viseme","value":"i"}
+{"time":1029,"type":"viseme","value":"t"}
+{"time":1086,"type":"word","start":21,"end":28,"value":"jakarta"}
+{"time":1086,"type":"viseme","value":"S"}
+{"time":1166,"type":"viseme","value":"@"}
+{"time":1201,"type":"viseme","value":"k"}
+{"time":1311,"type":"viseme","value":"a"}
+{"time":1379,"type":"viseme","value":"r"}
+{"time":1412,"type":"viseme","value":"t"}
+{"time":1444,"type":"viseme","value":"@"}
+{"time":1628,"type":"viseme","value":"sil"}
