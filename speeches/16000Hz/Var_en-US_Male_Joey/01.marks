@@ -1,0 +1,7 @@
+{"time":0,"type":"sentence","start":0,"end":5,"value":"today"}
+{"time":6,"type":"word","start":0,"end":5,"value":"today"}
+{"time":6,"type":"viseme","value":"t"}
+{"time":67,"type":"viseme","value":"@"}
+{"time":100,"type":"viseme","value":"t"}
+{"time":182,"type":"viseme","value":"e"}
+{"time":458,"type":"viseme","value":"sil"}
